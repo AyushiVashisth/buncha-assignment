@@ -1,0 +1,43 @@
+.products {
+    max-height: 270px;
+    /* border: 2px solid white; */
+    display: flex;
+    overflow: auto;
+    list-style: none;
+  }
+  
+  .products::-webkit-scrollbar {
+    width: 0;
+  }
+  
+  .products li {
+    width: 150px;
+    height: 250px;
+    text-align: center;
+    margin-right: 10px;
+    background: red;
+    position: relative;
+  }
+  
+  .products li h4,
+  p {
+    font-size: 12px;
+  }
+  
+  .products li .buttons {
+    font-size: 20px;
+    display: flex;
+    position: absolute;
+    top: 40%;
+    right: 0%;
+  }
+  
+  button {
+    font-size: 25px;
+    background: #40d589;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 50px;
+    font-weight: 800;
+    cursor: pointer;
+  }

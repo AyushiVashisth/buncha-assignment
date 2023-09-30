@@ -2,8 +2,9 @@
 <h1 align="center">✨✨Welcome to Buncha-Shopping-Cart✨✨</h1>
 
 <br/>
-<h3 align="justify" width="80%">
-Create a cross-platform single-page app using React, Typescript, and Redux. Refer to Figma designs for UI [Link](https://www.figma.com/file/CdQg7qzmPcEWGXZMzuHMh6/Assignment?type=design&mode=design&t=zXaZSCdPqn6NRv2U-0). Set up your development environment with Node.js. Convert designs into React components. Implement a category panel and scrolling sync. Manage cart data with Redux, allowing item addition/removal. Share logs in CSV format for events and errors. Use dummy data for testing and ensure functionality across mobile devices and browsers for a quality user experience.
+
+Create a cross-platform single-page app using React, Typescript, and Redux. [Refer to Figma designs for UI](https://www.figma.com/file/CdQg7qzmPcEWGXZMzuHMh6/Assignment?type=design&mode=design&t=zXaZSCdPqn6NRv2U-0)   Set up your development environment with Node.js. Convert designs into React components. Implement a category panel and scrolling sync. Manage cart data with Redux, allowing item addition/removal. Share logs in CSV format for events and errors. Use dummy data for testing and ensure functionality across mobile devices and browsers for a quality user experience. 
+
 
 <h2 align="left">
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
